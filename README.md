@@ -1,4 +1,3 @@
-![logo](https://github.com/Yea-min/Yea-min/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Yeamin Eram Chowdhury</h1>
 <h3 align="center">A passionate coder!! Focused on Data Structures & Algorithms</h3>
 
